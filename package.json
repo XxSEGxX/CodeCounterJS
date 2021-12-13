@@ -1,0 +1,19 @@
+{
+  "name": "codecounterjs",
+  "version": "1.0.0",
+  "description": "Read files from a folder and gives the number of lines in the project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XxSEGxX/CodeCounterJS.git"
+  },
+  "author": "SEG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XxSEGxX/CodeCounterJS/issues"
+  },
+  "homepage": "https://github.com/XxSEGxX/CodeCounterJS#readme"
+}
